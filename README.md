@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shameem
+- I am a Java Developer
+- I’m looking to collaborate on Open Source projects
